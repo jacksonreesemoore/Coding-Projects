@@ -7,3 +7,7 @@ To increase the size of the image, you input a positive number of pixels to incr
 The extended Tic Tac Toe game is coded in Java. The source code and test cases can be found inside cpsc2150/extendedTicTacToe/models. The driver of the code is located in 
 cpsc2150/extendedTicTacToe. This game allows the user to choose the size of the board, the amount of players, the symbols to represent the players, and whether the user would 
 like to use a memory efficient implementation or a fast implementation.
+
+PA2 contains a PPM image manipulator coded in C++. It allows the user to input 2 PPM images and greyscale or mirror the images. It also allows the user to place one image on top of the other.
+
+All of these projects were created by me.
