@@ -10,4 +10,6 @@ like to use a memory efficient implementation or a fast implementation.
 
 PA2 contains a PPM image manipulator coded in C++. It allows the user to input 2 PPM images and greyscale or mirror the images. It also allows the user to place one image on top of the other.
 
+The website contains various pages and applications. I am still actively working on and adding to this website.
+
 All of these projects were created by me.
